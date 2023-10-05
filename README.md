@@ -1,5 +1,5 @@
-# hand_cricket
-Have you ever player hand cricket in school? I have tried the replicate the same in python.
+#hand_cricket
+#Have you ever player hand cricket in school? I have tried the replicate the same in python.
 import random
 target=random.randint(1,20)
 print("target is: ",target)
